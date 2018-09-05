@@ -14,7 +14,7 @@ Last update: 8/26/2018
 - Meeting times: Monday and Wednesday 9:30 am - 10:45 am (Section 1),<br/>
                  Monday and Wednesday 11:00 am - 12:15 pm (Section 2) 
 
-- Meeting place: KMC 3-70
+- Meeting place: KMC 3-90
 
 ---
 ## Important Links
