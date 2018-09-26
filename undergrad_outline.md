@@ -31,7 +31,7 @@ Last update: 8/26/2018
 ---
 ## Important Dates
 
-**Code Practice 1 due** **Day and Date:** Wednesday 09/26/2018<br>
+**Code Practice 1 due** **Day and Date:** Wednesday 09/28/2018<br>
 
 **Code Practice 2 due** **Day and Date:** Wednesday 10/03/2018<br>
 
@@ -91,7 +91,7 @@ Last update: 8/26/2018
 
 ## Topic 4.  Python fundamentals 3 
 **Day and Date:** Wednesday, 9/26/2018 <br>
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb) | [Code Practice #1 (Due by September 26)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbook.io/thebook/py-fun2) | [Code](https://github.com/nyusterndatabootcamp/notebooks/blob/master/book_notebooks/python_fundamentals_two.ipynb) | [Code Practice #1 (Due by September 28)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
