@@ -33,7 +33,7 @@ Last update: 8/26/2018
 
 **Code Practice 1 due** **Day and Date:** Wednesday 09/28/2018<br>
 
-**Code Practice 2 due** **Day and Date:** Wednesday 10/03/2018<br>
+**Code Practice 2 due** **Day and Date:** Wednesday 10/07/2018<br>
 
 **Code Practice 3 due** **Day and Date:** Monday 10/15/2018<br>
 
@@ -105,7 +105,7 @@ Last update: 8/26/2018
 
 ## Topic 5.  Intro to Pandas - Data Input 
 **Day and Date:** Wednesday, 10/03/2018 <br>
-**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 3)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html)|[Code Practice #2 (Due by October 7)](https://github.com/nyusterndatabootcamp/teaching_materials/blob/master/documents/bootcamp_practice_2.pdf) (Download "Raw" as ipynb) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
