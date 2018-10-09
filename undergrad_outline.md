@@ -28,7 +28,7 @@ Last update: 8/26/2018
 
 - **[DISCUSSION GROUP](http://newclasses.nyu.edu/)** Post your doubts on NYU Classes forum tab.  
 
-- **[PROJECTS LINK](https://github.com/RahulRameshMenonNYU/NYU-Data-Bootcamp/blob/master/REFERENCE%20PROJECT%20LINKS%20DATA%20BOOTCAMP.docx)** Post your doubts on NYU Classes forum tab.  
+- **[PROJECTS LINK](https://github.com/RahulRameshMenonNYU/NYU-Data-Bootcamp/blob/master/Project%20Links%20for%20Reference_v1.pdf)** Links for previous projects for reference.  
 
 
 
